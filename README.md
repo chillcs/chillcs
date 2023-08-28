@@ -1,5 +1,5 @@
 <h3>Hello!</h3>
-<p>I'm Curtis, Web Developer and Shopify Expert from 🇨🇦 Victoria, Canada.
+<p>I'm Curtis, Web Developer and Shopify Expert from Victoria, Canada.
 
 <h3>Technologies I use</h3>
 <p>
