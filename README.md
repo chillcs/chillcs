@@ -10,6 +10,6 @@
   <img alt="liquid" src="https://img.shields.io/badge/Liquid-068fff" />
   <img alt="node" src="https://img.shields.io/badge/Node-068fff" />
   <img alt="react" src="https://img.shields.io/badge/React-068fff" />
-  <img alt="next-js" src="https://img.shields.io/badge/Next.js-068fff" />
+  <img alt="next" src="https://img.shields.io/badge/Next-068fff" />
   <img alt="git" src="https://img.shields.io/badge/Git-068fff" />
 </p>
